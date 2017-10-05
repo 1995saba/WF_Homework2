@@ -1,0 +1,9 @@
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Rectangle\Rectangle\bin\Debug\Rectangle.exe.config
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Rectangle\Rectangle\bin\Debug\Rectangle.exe
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Rectangle\Rectangle\bin\Debug\Rectangle.pdb
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Rectangle\Rectangle\obj\Debug\Rectangle.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Rectangle\Rectangle\obj\Debug\Rectangle.FormRectangle.resources
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Rectangle\Rectangle\obj\Debug\Rectangle.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Rectangle\Rectangle\obj\Debug\Rectangle.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Rectangle\Rectangle\obj\Debug\Rectangle.exe
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Rectangle\Rectangle\obj\Debug\Rectangle.pdb
